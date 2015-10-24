@@ -1,0 +1,1 @@
+Oferecer um sistema para o controle da atividade que possibilite manipular os vendedores, os bilhetes para cada vendedor, valor do bilhete, produto a ser rifado, sobra de bilhetes, impressão de bilhetes, etc. O sistema deverá ter verificação para que não seja emitido bilhete com valores menores que 0000 e maiores que 9999 e só trabalhar com números inteiros.
